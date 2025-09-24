@@ -6,3 +6,13 @@ The full architecutre is shown below:
 <div align="center">
   <img src="./assets/architecture.png" alt="Transformer Architecture" width="600">
 </div>
+
+## Components required:
+- Dataset
+- tokenizers
+- encoder model
+- decoder model
+- Attention mechansims ()
+
+## Some questions with their answers:
+- Q1: What was the problem with RNN and how attention mechanism solved it?
